@@ -1,0 +1,15 @@
+.navbar {
+  background-color:rgba(128, 255, 212, 0.3);  
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.navbar-brand img {
+  position:relative;
+  top:38px;  
+}
+
+.mi-navbar {
+  padding-top: 0.1rem;
+  padding-bottom: 0.1rem;  
+}
+
