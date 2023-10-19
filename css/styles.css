@@ -13,3 +13,16 @@
   padding-bottom: 0.1rem;  
 }
 
+a.link {
+  text-decoration: none;
+}
+
+main {
+  padding: 20px;  
+  background-image: url(/img/book-story-opac.png);  
+  background-repeat: no-repeat;
+  background-size:cover;
+}
+
+
+
